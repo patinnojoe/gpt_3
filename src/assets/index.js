@@ -12,8 +12,10 @@ import people from './people.png';
 import possibility from './possibility.png';
 import shopify from './shopify.png';
 import slack from './slack.png';
+import ai from './ai.png';
 
 export {
+  ai,
   atlassian,
   blog01,
   blog02,
